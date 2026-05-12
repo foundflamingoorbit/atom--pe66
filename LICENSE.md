@@ -1,4 +1,4 @@
-# 
+# new Atom for PC | Atom for Windows Snippet | keyboard-shortcuts + terminal-integration is the best Atom for PC | Atom for Windows snippet, featuring keyboard-shortcuts and
 
 
 
